@@ -5,7 +5,7 @@ Afin de réduire ce nombre d'incident, nous avons pris l'initiative de créer un
 Cette solution devra être capable de détecter les restaurants susceptibles d'être responsable d'une nouvelle intoxication alimentaire avec une fiabilité de plus de 80 %.
 
 
-## Contributing
+## Contribution
 
 Toute contribution à cette application est la bienvenue.
 
