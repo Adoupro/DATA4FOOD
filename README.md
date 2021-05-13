@@ -7,7 +7,7 @@ Cette solution devra être capable de détecter les restaurants susceptibles d'�
 
 ## Contributing
 
-Toute contribution à cette application est la bienvenue
+Toute contribution à cette application est la bienvenue.
 
 
 ## License
